@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"i",
+				"Icon"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"http-equiv\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jemmoh/Videos/m.js",
+		"/home/jemmoh/Documents/web/james/php/email_config.php",
+		"/home/jemmoh/Documents/web/james/index.html",
+		"/home/jemmoh/Music/New Folder/android\\support\\annotation\\DrawableRes.java",
+		"/home/jemmoh/Desktop/index.html",
+		"/home/jemmoh/Desktop/index.php",
+		"/home/jemmoh/Documents/web/form_validation/login.php",
+		"/home/jemmoh/Documents/server.js",
+		"/home/jemmoh/Documents/web/james/css/style.css",
+		"/home/jemmoh/Documents/web/james/css/responsive.css",
+		"/home/jemmoh/Desktop/agmstudio-frontend-master/src/js/app.js",
+		"/home/jemmoh/Desktop/untitled.jsp",
+		"/home/jemmoh/Documents/web/james/portfolio/site/stylesheets/style.gothic.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/stylesheets/style.blue.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/stylesheets/style.android_green.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/stylesheets/style.green.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/stylesheets/style.red.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/stylesheets/style.yellow.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/php/contact.php",
+		"/home/jemmoh/Documents/web/james/portfolio/site/php/email_config.php",
+		"/home/jemmoh/Documents/web/james/portfolio/site/js/jquery-1.11.3.min.js",
+		"/home/jemmoh/Documents/web/james/portfolio/site/js/script.js",
+		"/home/jemmoh/Documents/web/james/portfolio/site/css/responsive.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/css/style.css",
+		"/home/jemmoh/Documents/web/james/portfolio/site/bootstrap/js/bootstrap.min.js",
+		"/home/jemmoh/Documents/web/james/portfolio/site/index.html",
+		"/home/jemmoh/AndroidStudioProjects/NotiApp/gradlew",
+		"/home/jemmoh/AndroidStudioProjects/NotiApp/app/android/support/p005a/C0022a.java",
+		"/home/jemmoh/Documents/web/james/portfolio/site/bootstrap/css/bootstrap.min.css",
+		"/home/jemmoh/Documents/web/insta/portfolio/template/index.html",
+		"/home/jemmoh/Pictures/james.html",
+		"/home/jemmoh/Downloads/9987110d12b84f646d8a8c90f215d956.ico/manifest.json",
+		"/home/jemmoh/Downloads/elvira-v13/elvira-13/demo-content/demo-content.xml",
+		"/home/jemmoh/Downloads/Whatsapp-API-base/gradlew",
+		"/home/jemmoh/Downloads/Whatsapp-API-base/whatsappapilibrary/src/main/java/com/whatsapp/MediaData.java",
+		"/home/jemmoh/Downloads/Whatsapp-API-base/whatsappapilibrary/src/main/java/com/mega4tech/whatsappapilibrary/WhatsappApi.java",
+		"/home/jemmoh/Documents/apks/web/index.html",
+		"/home/jemmoh/Documents/web/LEM/css/alert.css",
+		"/home/jemmoh/AndroidStudioProjects/NotiApp/app/src/main/java/com/notiapp/appwidget/C3131a.java",
+		"/home/jemmoh/Downloads/Whatsapp-API-base/build.gradle",
+		"/home/jemmoh/Downloads/WhatsApp_source_from_JADX/p000a/p001a/p002a/p003a/p004a/C0005a.java",
+		"/home/jemmoh/AndroidStudioProjects/NotiApp/app/src/main/java/com/notiapp/accountsync/AccountAuthenticatorService.java",
+		"/home/jemmoh/Downloads/Decompiled-Whatsapp-master/r.java",
+		"/home/jemmoh/Downloads/Decompiled-Whatsapp-master/b.java",
+		"/home/jemmoh/Downloads/WhatsApp_source_from_JADX/android/support/v4/app/aa.java",
+		"/home/jemmoh/Downloads/Whatsapp_plus-master/build.gradle",
+		"/home/jemmoh/Downloads/Whatsapp_plus-master/gradlew"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"activate"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
